@@ -1,5 +1,5 @@
 /**
- * <h1>Package com.example.library.book</h1>
+ * <h1>Package it.peruvianit.pattern.strutture.adapter</h1>
  *🔌 L'Analogia del Power Adapter
  *  Un'analogia molto efficace è quella dell'adattatore di corrente elettrica . Se hai un dispositivo elettronico
  *  con una spina europea e ti trovi in un paese con prese di tipo americano, non puoi collegare direttamente il
