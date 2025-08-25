@@ -1,4 +1,4 @@
-package it.peruvianit.pattern.creazionale.factory;
+package it.peruvianit.pattern.creazionale.factory_method;
 
 // Creator
 public abstract class Logistica {

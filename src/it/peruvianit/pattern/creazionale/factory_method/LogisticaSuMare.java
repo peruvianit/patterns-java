@@ -1,4 +1,4 @@
-package it.peruvianit.pattern.creazionale.factory;
+package it.peruvianit.pattern.creazionale.factory_method;
 
 public class LogisticaSuMare extends Logistica {
     @Override

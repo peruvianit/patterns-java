@@ -1,4 +1,4 @@
-package it.peruvianit.pattern.creazionale.factory;
+package it.peruvianit.pattern.creazionale.factory_method;
 
 public class MainFactory {
     public static void main(String[] args) {

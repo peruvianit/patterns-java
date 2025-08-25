@@ -1,4 +1,4 @@
-package it.peruvianit.pattern.creazionale.factory;
+package it.peruvianit.pattern.creazionale.factory_method;
 
 // Concrete Products
 public class Camion implements Trasporto {
