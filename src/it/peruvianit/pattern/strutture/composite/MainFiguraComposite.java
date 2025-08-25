@@ -1,8 +1,6 @@
 package it.peruvianit.pattern.strutture.composite;
 
-import it.peruvianit.pattern.strutture.adapter.CalcolatoreFiguraGeometrica;
-
-public class MainFuguraComposite {
+public class MainFiguraComposite {
     public static void main(String[] args) {
         Triangolo triangolo = new Triangolo();
         Quadrato quadrato = new Quadrato();
