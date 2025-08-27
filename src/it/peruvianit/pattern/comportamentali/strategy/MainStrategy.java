@@ -1,6 +1,6 @@
 package it.peruvianit.pattern.comportamentali.strategy;
 
-public class Client {
+public class MainStrategy {
     public static void main(String[] args) {
         ContextDocument contextDocumentExcel = new ContextDocument();
         contextDocumentExcel.setSavingStrategy(new ConcreteExcelStrategy());
